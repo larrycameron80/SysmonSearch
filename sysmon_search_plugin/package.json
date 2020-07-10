@@ -17,6 +17,6 @@
     "gather-info": "node gather-info.js"
   },
   "dependencies": {
-    "elasticsearch": "^14.2.1"
+    "elasticsearch": "^15.0.0"
   }
 }
